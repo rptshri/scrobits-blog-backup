@@ -5,6 +5,7 @@ seoDescription: "Meta description for SEO"
 datePublished: Thu Aug 08 2024 15:40:47 GMT+0000 (Coordinated Universal Time)
 cuid: clzlg3c9s000309l73mem4ivw
 slug: edge-computing-vs-cloud-computing-transforming-strategies-benefits
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1723132321177/012db380-e59c-4585-8403-43bb7dcbc513.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1723131608790/1dc55170-ef99-4fd3-86db-88a6a08b9fa9.jpeg
 tags: programming, devops, edgecomputing
 
