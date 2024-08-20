@@ -4,7 +4,7 @@ seoTitle: "Mastering Multi-Cloud: 2023 Strategies & Trends"
 seoDescription: "Unlock the benefits of multi-cloud strategies in 2023 for flexibility, security, and cost efficiency in enterprise cloud management"
 datePublished: Thu Aug 08 2024 16:01:39 GMT+0000 (Coordinated Universal Time)
 cuid: clzlgu6sy000d09mlcrbmgzms
-slug: custom-slug-1-1-1
+slug: mastering-multi-cloud-strategies-benefits-trends-in-2023
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1723132700271/5d4a3a55-91b1-4e8d-bf33-dac1e5435311.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1723132883604/f8c06ffd-90c8-4a8e-a1ff-46b32eb7a9a1.jpeg
 tags: cloud, programming, cloud-native, multicloud
