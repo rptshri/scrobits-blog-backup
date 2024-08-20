@@ -5,6 +5,8 @@ seoDescription: "Key strategies to address IoT deployment: improve security, sca
 datePublished: Tue Aug 06 2024 20:21:30 GMT+0000 (Coordinated Universal Time)
 cuid: clziv8ng6000108l20xswdrxc
 slug: overcoming-common-challenges-in-iot-deployment-key-strategies
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1724156300708/d880b970-83e6-4e5a-805d-75e1b64623e3.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1724156317960/1fdb242a-d92f-4770-b645-017c24e347c8.jpeg
 tags: programming, iot
 
 ---
