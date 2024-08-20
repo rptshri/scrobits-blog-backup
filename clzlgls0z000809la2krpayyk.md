@@ -4,7 +4,7 @@ seoTitle: "Meta Title for SEO"
 seoDescription: "Integrating AI with cloud computing boosts business efficiency and growth. Discover benefits and future trends"
 datePublished: Thu Aug 08 2024 15:55:07 GMT+0000 (Coordinated Universal Time)
 cuid: clzlgls0z000809la2krpayyk
-slug: custom-slug-1-1
+slug: maximizing-business-growth-integrating-ai-with-cloud-computing
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1723132394321/4abc4868-8cff-40c5-93dd-eb2f5be23619.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1723132488754/a6d69f1e-0e58-45ff-b43e-c6d554840355.jpeg
 tags: ai, programming, cloud-computing
