@@ -5,6 +5,7 @@ seoDescription: "Meta description for SEO"
 datePublished: Wed Oct 16 2024 09:03:15 GMT+0000 (Coordinated Universal Time)
 cuid: cm2bn9wf7000l0al86c9jg6k2
 slug: awsetlcostmanagementoptimizesavebig
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1729069437477/c62afcb1-8dfe-475e-b146-4d700304b9cd.jpeg
 tags: aws, devops, etl, aws-etl
 
 ---
